@@ -5,7 +5,6 @@ My name is David Okongo, and I'm an IT personel interested in web development an
 - 🔭 I’m currently working on a react project, building a functioning website using the react technology
 - 🌱 I’m currently learning node.js and postgresql, which is a python framework that easen web development with python
 - 👯 I’m looking to collaborate on any coding challenges involving web development
-- 🤔 I’m looking for help with ...
 
 <!--
 **Okongodave/Okongodave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
